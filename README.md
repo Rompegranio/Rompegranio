@@ -5,9 +5,9 @@
 --->
 
 
-apt update
 
-apt update
+
+apt u
 
 apt install php
 
