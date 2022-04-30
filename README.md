@@ -10,8 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 📱📱📱📱📱📱Hacker-Fa
-
-
 apt update
 
 apt install php
